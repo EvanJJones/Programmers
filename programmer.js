@@ -13,7 +13,8 @@ class Programmer {
 Name: ${this.name}
 Position: ${this.position}
 Age: ${this.age}
-Language: ${this.language}`);
+Language: ${this.language}
+--------------------------`);
   }
 }
 // exporting class
